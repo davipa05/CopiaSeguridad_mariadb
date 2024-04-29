@@ -1,0 +1,8 @@
+// Para poder hacer ejecutable el Script he utilizado este comando:
+
+chmod +x backup_mariadb.sh
+
+
+De esta manera automatizamos nuestra copia de seguridad, en mi caso configurada para que se haga cada 7 minutos.
+
+La copia se realiza de los 4 tipos de copias que podemos hacer con mariadb y que nos pide el ejercicio.
